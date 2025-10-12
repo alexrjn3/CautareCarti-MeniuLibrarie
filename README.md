@@ -10,6 +10,16 @@ Pasi:
 
 Aplicație standalone, simplă și intuitivă, rulată exclusiv în consolă.
 
+1 - Text file search (linear search)
+
+2 - Sorted text file search (binary search)
+
+3 - XML file search
+
+4 - Update/Delete an book
+
+5 - Exit
+
 <img width="483" height="246" alt="image" src="https://github.com/user-attachments/assets/065687cf-55ea-41d9-abec-5776b179b747" />
 
 <img width="421" height="265" alt="image" src="https://github.com/user-attachments/assets/7804d55b-7e79-4430-a05b-3caee388923c" />
