@@ -1,24 +1,22 @@
-Fișiere:
-•	Meniu.java – logica principală a aplicației și interfața consolei.
-•	carti.txt, carti.xml – fișierele locale care stochează datele despre cărți.
+Files:
+- Meniu.java – main application logic and console interface.
+- carti.txt, carti.xml – local files storing book data.
 
-Pasi:
-•	Căutare de cărți după autor sau titlu (căutare liniară sau binară).
-•	Actualizare sau ștergere a numărului de exemplare.
-•	Selectare sursă de date (text sau XML).
-•	Totul se execută local, fără server sau conexiune în rețea.
+Steps:
+- Search for books by author or title (linear or binary search).
+- Update or delete the number of copies.
+- Select the data source (text or XML).
+- All operations are performed locally, without a server or network connection.
 
-Aplicație standalone, simplă și intuitivă, rulată exclusiv în consolă.
+A standalone, simple, and intuitive console application.
 
-1 - Text file search (linear search)
 
-2 - Sorted text file search (binary search)
-
-3 - XML file search
-
-4 - Update/Delete an book
-
-5 - Exit
+Menu:
+1. Text file search (linear search)
+2. Sorted text file search (binary search)
+3. XML file search
+4. Update/Delete an book
+5. Exit
 
 <img width="483" height="246" alt="image" src="https://github.com/user-attachments/assets/065687cf-55ea-41d9-abec-5776b179b747" />
 
